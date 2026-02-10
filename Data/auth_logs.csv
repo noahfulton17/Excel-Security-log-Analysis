@@ -3,7 +3,6 @@
 2026-02-09,jsmith,172.16.5.10,logout,success,user_initiated
 2026-02-09,unknown,203.0.113.5,login,failure,invalid_username
 2026-02-09,admin,192.168.1.50,lockout,triggered,max_attempts
-
 10/27/2023,U102,asmith,203.0.113.5,SSH,Login,failure,invalid_password
 10/27/2023,U102,asmith,203.0.113.5,SSH,Login,failure,invalid_password
 10/27/2023,U102,asmith,203.0.113.5,SSH,Login,failure,invalid_password
