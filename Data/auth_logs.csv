@@ -1,3 +1,10 @@
+### Auth Logs Used in Excel
+
+2026-02-09T10:00:01Z,admin,192.168.1.50,login,success,mfa_verified
+2026-02-09T10:02:15Z,jdoe,10.0.0.15,login,failure,invalid_password
+2026-02-09T10:05:00Z,jsmith,172.16.5.10,logout,success,user_initiated
+2026-02-09T10:10:22Z,unknown,203.0.113.5,login,failure,invalid_username
+2026-02-09T10:11:00Z,admin,192.168.1.50,lockout,triggered,max_attempts
 10/27/2023,U102,asmith,203.0.113.5,SSH,Login,failure,invalid_password
 10/27/2023,U102,asmith,203.0.113.5,SSH,Login,failure,invalid_password
 10/27/2023,U102,asmith,203.0.113.5,SSH,Login,failure,invalid_password
